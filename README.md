@@ -30,11 +30,7 @@ you can find free stock images in the following sites:
 if you want to edit those images to customize them further try:
 <br>
 
-- GIMP (free raster image editor)
-- Inkscape (free vector image editor)
-- Adobe Photoshop (paid raster image editor)
-- Adobe Illustrator (paid vector image editor)
-- MS Paint (free with Windows)
+
 <br>
 <b>Author:</b> Mariya Sha
 <br>
