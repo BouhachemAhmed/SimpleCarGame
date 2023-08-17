@@ -42,9 +42,7 @@ if you want to edit those images to customize them further try:
 <br>
 
 
-<br>
-<b>Author:</b> Mariya Sha
-<br>
+
 <b>Dependancies:</b> Pygame, Random, Python 3.9
 <br>
 <br>
